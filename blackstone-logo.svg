@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-  <title>Blackstone Assurance Logo</title>
-  <path d="M50 95 L10 75 V25 L50 5 L90 25 V75 Z" fill="#0f172a"/>
-  <path d="M30 35 L50 25 L70 35 V65 L50 75 L30 65 Z" fill="#005F6A"/>
-  <path d="M50 25 L70 35 V45 L50 35 Z" fill="#B87333"/>
-  <path d="M30 55 L50 65 V75 L30 65 Z" fill="#B87333"/>
-  <path d="M42 32 H58 C62 32 62 42 58 42 C64 42 64 62 58 62 H42 Z" fill="#f8f9fa"/>
-</svg>
